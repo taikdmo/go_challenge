@@ -1,4 +1,4 @@
-package main
+package maiN
 
 import "github.com/01-edu/z01"
 
@@ -8,3 +8,4 @@ func main() {
 	}
 	z01.PrintRune(rune('\n'))
 }
+github.com/01-edu/z01.PrintRune#2, --allow-builtin
